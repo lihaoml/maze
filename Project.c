@@ -2,18 +2,8 @@
  *  Project: An Interactive 3D Maze Game 
  *  Project.c
  * 
- * -----------------------------------------------------------------------------
- *  Student Information
- * -----------------------------------------------------------------------------
- *  Student Name:
- *  Student ID:
- *  E-mail:
- *  Major: Computer Technology / Electronic Information / Software Technology
- *  Year: 3
- * ------------------------------------------------------------------------------
  */
-#include "C:\GLUT 3.7 for .NET/glut.h"
-//#include <GL/glut.h>
+#include <GL/glut.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
